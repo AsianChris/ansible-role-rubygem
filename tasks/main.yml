@@ -4,4 +4,4 @@
   sudo: yes
   with_items:
     - ruby
-    - rubygems
+    - rubygems-integration
