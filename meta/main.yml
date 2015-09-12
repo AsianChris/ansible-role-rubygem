@@ -6,7 +6,7 @@ dependencies:
 
 galaxy_info:
   author: Chris Baptista
-  description: RubyGem installation
+  description: RubyGems installation
   company:
   license: license (BSD)
   min_ansible_version: 1.9
