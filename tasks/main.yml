@@ -1,0 +1,7 @@
+---
+- name: Install Gem
+  apt: pkg={{ item }} state=present
+  sudo: yes
+  with_items:
+    - ruby
+    - rubygem
